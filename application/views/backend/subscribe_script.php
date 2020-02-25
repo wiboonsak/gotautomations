@@ -1,0 +1,6 @@
+<script>
+
+//------------------------------
+$('#datatable').DataTable();
+
+</script>
